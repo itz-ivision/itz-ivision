@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Gupta</h1>
 <h3 align="center">A passionate full stack[MEAN] developer from India</h3>
 
-- 🔭 I’m currently working on [VisionVault](https://github.com/vaultwithvision) & [VisionarySpotter](https://github.com/itz-ivision/VisionarySpotter-BackendAPI)
-
-- 👯 I’m looking to collaborate on [VisionVault](https://github.com/vaultwithvision) & [VisionarySpotter](https://github.com/itz-ivision/VisionarySpotter-BackendAPI)
-
-- 🤝 I’m looking for help with [VisionVault](https://github.com/vaultwithvision) & [VisionarySpotter](https://github.com/itz-ivision/VisionarySpotter-BackendAPI)
-
-- 💬 Ask me about **MEAN, Angular, NodeJS,JS,**
-
 - 📫 How to reach me **arnab.gupta.ar7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
